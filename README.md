@@ -33,7 +33,7 @@ const mio: Developer = {
   focus:      "Realtime Systems",
   location:   "Thailand 🇹🇭",
   email:      "ngaolakorny@gmail.com",
-  languages:  ["TypeScript", "JavaScript", "Dart","go","SQL"],
+  languages:  ["TypeScript", "JavaScript", "Dart", "go" , "SQL"],
   stack: {
     frontend: ["Next.js", "React", "TailwindCSS"],
     backend:  ["Node.js" , "go" , "Express", "PostgreSQL"],
