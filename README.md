@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ===== TYPING SVG ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Engineer;⚡+Realtime+Systems+Specialist;🔥+Next.js+%7C+Node.js+%7C+Flutter;💡+Always+building+cool+stuff;🌏+Based+in+Thailand" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Realtime+Systems+Specialist;Next.js+%7C+Node.js+%7C+Flutter;Always+building+cool+stuff;Based+in+Thailand" alt="Typing SVG" />
 
 <br/><br/>
 
