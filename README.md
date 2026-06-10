@@ -11,11 +11,11 @@
 <br/><br/>
 
 <!-- ===== BADGES ===== -->
-<img src="https://komarev.com/ghpvc/?username=ngaolakorny&label=Profile+Views&color=7928CA&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ynmio55&label=Profile+Views&color=7928CA&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ngaolakorny?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/ynmio55?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/ngaolakorny?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/ynmio55?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -80,17 +80,17 @@ const mio: Developer = {
 <!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngaolakorny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngaolakorny&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ynmio55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynmio55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ngaolakorny&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=ynmio55&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
 <!-- ===== TROPHIES ===== -->
-<img src="https://github-profile-trophy.vercel.app/?username=ngaolakorny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ynmio55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -99,7 +99,7 @@ const mio: Developer = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngaolakorny)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynmio55)
 
 <br/>
 
