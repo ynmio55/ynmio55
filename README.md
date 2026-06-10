@@ -28,20 +28,35 @@
 
 ```typescript
 const mio: Developer = {
+
   name:       "Mio Ngaolakorn",
+
   role:       "Full-Stack Engineer",
+
   focus:      "Realtime Systems",
+
   location:   "Thailand 🇹🇭",
+
   email:      "ngaolakorny@gmail.com",
+
   languages:  ["TypeScript", "JavaScript", "Dart", "go" , "SQL"],
+
   stack: {
+
     frontend: ["Next.js", "React", "TailwindCSS"],
+
     backend:  ["Node.js" , "go" , "Express", "PostgreSQL"],
+
     mobile:   ["Flutter"],
+
     devops:   ["Docker", "CI/CD"],
+
   },
+
   currentlyLearning: "Realtime & WebSocket architecture",
+
   funFact: "I debug best at 2AM ☕",
+
 };
 ```
 
@@ -90,7 +105,12 @@ const mio: Developer = {
 <br/><br/>
 
 <!-- ===== TROPHIES ===== -->
-<img src="https://github-profile-trophy.vercel.app/?username=ynmio55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ynmio55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
+
+<br/><br/>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynmio55&bg_color=1a1b27&color=00DFD8&line=7928CA&point=FF0080&area=true&hide_border=true" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
