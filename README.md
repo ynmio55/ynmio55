@@ -10,27 +10,19 @@
 
 <br/><br/>
 
-<!-- ===== PROFILE VIEWS + FOLLOWERS + STARS ===== -->
-<img src="https://komarev.com/ghpvc/?username=ngaolakorny&label=👁️%20Profile%20Views&color=7928CA&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ngaolakorny?label=👥%20Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/ngaolakorny?label=⭐%20Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" />
+<!-- ===== BADGES ===== -->
+<img src="https://komarev.com/ghpvc/?username=ngaolakorny&label=Profile+Views&color=7928CA&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ngaolakorny?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/ngaolakorny?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" />
 
 <br/><br/>
 
-<!-- ===== SNAKE CONTRIBUTION GRAPH ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngaolakorny/ngaolakorny/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngaolakorny/ngaolakorny/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ngaolakorny/ngaolakorny/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-<!-- ===== DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ===== ABOUT ME ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 </div>
 
@@ -58,7 +50,7 @@ const mio: Developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ===== TECH STACK ===== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
 **Frontend**
 
@@ -86,32 +78,32 @@ const mio: Developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ===== GITHUB STATS ===== -->
-## 📊 &nbsp; GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ngaolakorny&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngaolakorny&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=ffffff" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngaolakorny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngaolakorny&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ngaolakorny&theme=radical&hide_border=true&background=0d1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakLabel=00DFD8&sideLabels=ffffff&dates=ffffff" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ngaolakorny&bg_color=0d1117&color=00DFD8&line=7928CA&point=FF0080&area=true&hide_border=true" width="49%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ngaolakorny&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<br/>
+<br/><br/>
 
 <!-- ===== TROPHIES ===== -->
-<img src="https://github-profile-trophy.vercel.app/?username=ngaolakorny&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ngaolakorny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ===== CONNECT ===== -->
-## 🤝 &nbsp; Connect With Me
+## 🤝 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngaolakorny)
 
 <br/>
 
-<!-- ===== FOOTER BANNER ===== -->
+<!-- ===== FOOTER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,25:00DFD8,50:7928CA,75:FF0080,100:FF4D4D&height=120&section=footer" width="100%"/>
 
 </div>
