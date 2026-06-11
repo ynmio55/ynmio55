@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=220&section=header&text=Mio%20Ngaolakorn&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full-Stack%20Engineer%20%7C%20Realtime%20Systems%20⚡&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=220&section=header&text=Mio%20Ngaolakorn&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full-Stack%20 Developer%20%7C%20Realtime%20Systems%20⚡&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -31,7 +31,7 @@ const mio: Developer = {
 
   name:       "Mio Ngaolakorn",
 
-  role:       "Full-Stack Engineer",
+  role:       "Full-Stack Developer",
 
   focus:      "Realtime Systems",
 
