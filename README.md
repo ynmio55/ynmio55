@@ -1,28 +1,24 @@
 <div align="center">
 
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=220&section=header&text=Mio%20Ngaolakorn&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full-Stack%20 Developer%20%7C%20Realtime%20Systems%20⚡&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=220&section=header&text=Mio%20Ngaolakorn&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20Realtime%20Systems%20⚡&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Banner" />
 
 <br/>
 
-<!-- ===== TYPING SVG ===== -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Realtime+Systems+Specialist;Next.js+%7C+Node.js+%7C+Flutter;Always+building+cool+stuff;Based+in+Thailand" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ===== BADGES ===== -->
-<img src="https://komarev.com/ghpvc/?username=ynmio55&label=Profile+Views&color=7928CA&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ynmio55&label=Profile+Views&color=7928CA&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ynmio55?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/ynmio55?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/ynmio55?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/ynmio55?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" alt="Stars" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-<!-- ===== ABOUT ME ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Waving Hand"> About Me
 
 </div>
 
