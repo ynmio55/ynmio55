@@ -41,7 +41,7 @@ const mio: Developer = {
 
     frontend: ["Next.js", "React", "TailwindCSS"],
 
-    backend:  ["Node.js" , "go" , "Express", "PostgreSQL"],
+    backend:  ["Node.js" , "go" , "Express"],
 
     mobile:   ["Flutter"],
 
