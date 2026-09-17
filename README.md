@@ -1,67 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=220&section=header&text=Mio%20Ngaolakorn&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20%7C%20Realtime%20Systems%20⚡&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=280&section=header&text=Hi,%20I'm%20Mio%20👋&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Realtime%20Systems%20Engineer&descSize=20&descAlignY=55&animation=twinkling" width="100%" alt="Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Realtime+Systems+Specialist;Next.js+%7C+Node.js+%7C+Flutter;Always+building+cool+stuff;Based+in+Thailand" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Realtime+Systems+Specialist+%E2%9A%A1;Next.js+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Flutter;Turning+ideas+into+shipped+products;Based+in+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ynmio55&label=Profile+Views&color=7928CA&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ynmio55&label=PROFILE+VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ynmio55?label=Followers&style=for-the-badge&color=0070F3&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/ynmio55?label=FOLLOWERS&style=for-the-badge&color=0070F3&labelColor=0d1117" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/ynmio55?label=Stars&style=for-the-badge&color=FF0080&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/github/stars/ynmio55?label=STARS&style=for-the-badge&color=FF0080&labelColor=0d1117" alt="Stars" />
 
-<br/><br/>
+<br/>
+
+[![Gmail](https://img.shields.io/badge/-ngaolakorny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ynmio55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ynmio55)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Waving Hand"> About Me
-
 </div>
+
+## 🧑‍💻 About Me
 
 ```typescript
 const mio: Developer = {
-
   name:       "Mio Ngaolakorn",
-
   role:       "Full-Stack Developer",
-
   focus:      "Realtime Systems",
-
   location:   "Thailand 🇹🇭",
-
   email:      "ngaolakorny@gmail.com",
 
-  languages:  ["TypeScript", "JavaScript", "Dart", "go" , "SQL"],
+  languages: ["TypeScript", "JavaScript", "Dart", "Go", "SQL"],
 
   stack: {
-
     frontend: ["Next.js", "React", "TailwindCSS"],
-
-    backend:  ["Node.js" , "go" , "Express"],
-
+    backend:  ["Node.js", "Go", "Express"],
     mobile:   ["Flutter"],
-
     devops:   ["Docker", "CI/CD"],
-
   },
 
   currentlyLearning: "Realtime & WebSocket architecture",
-
-  funFact: "I debug best at 2AM ☕",
-
-};
+  funFact:            "I debug best at 2AM ☕",
+} as const;
 ```
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-<!-- ===== TECH STACK ===== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -74,6 +66,7 @@ const mio: Developer = {
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -86,12 +79,17 @@ const mio: Developer = {
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ynmio55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ynmio55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynmio55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
@@ -100,26 +98,28 @@ const mio: Developer = {
 
 <br/><br/>
 
-<!-- ===== TROPHIES ===== -->
 <img src="https://github-profile-trophy.vercel.app/?username=ynmio55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
 
 <br/><br/>
 
-<!-- ===== ACTIVITY GRAPH ===== -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynmio55&bg_color=1a1b27&color=00DFD8&line=7928CA&point=FF0080&area=true&hide_border=true" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-<!-- ===== CONNECT ===== -->
-## 🤝 Connect With Me
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynmio55)
 
-<br/>
+<br/><br/>
 
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,25:00DFD8,50:7928CA,75:FF0080,100:FF4D4D&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,25:00DFD8,50:7928CA,75:FF0080,100:FF4D4D&height=150&section=footer" width="100%"/>
 
 </div>
