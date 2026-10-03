@@ -1,125 +1,193 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=280&section=header&text=Hi,%20I'm%20Mio%20👋&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Realtime%20Systems%20Engineer&descSize=20&descAlignY=55&animation=twinkling" width="100%" alt="Banner" />
+<img src="./assets/profile-header.svg" width="100%" alt="Mio — From engines to experiences. Web, desktop, realtime and creative code." />
 
-<br/>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00DFD8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Realtime+Systems+Specialist+%E2%9A%A1;Next.js+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Flutter;Turning+ideas+into+shipped+products;Based+in+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+**นักพัฒนาที่ชอบสร้างทั้งระบบเบื้องหลัง และประสบการณ์ที่คนใช้งานมองเห็น**
 
-<br/><br/>
+จากเบราว์เซอร์และเอนจิน Rust ไปจนถึงเว็บ 3D แอปเดสก์ท็อป และระบบแชตแบบเรียลไทม์
 
-<img src="https://komarev.com/ghpvc/?username=ynmio55&label=PROFILE+VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ynmio55?label=FOLLOWERS&style=for-the-badge&color=0070F3&labelColor=0d1117" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/ynmio55?label=STARS&style=for-the-badge&color=FF0080&labelColor=0d1117" alt="Stars" />
+[![Explore projects](https://img.shields.io/badge/EXPLORE-PROJECTS-9D8DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=121827)](https://github.com/ynmio55?tab=repositories)
+[![LiteWave](https://img.shields.io/badge/TRY-LITEWAVE-79DFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=121827)](https://litewave.miosmooth.com)
+[![Follow](https://img.shields.io/github/followers/ynmio55?style=for-the-badge&label=FOLLOW&color=F5A2D4&labelColor=121827)](https://github.com/ynmio55)
 
-<br/>
+<br />
 
-[![Gmail](https://img.shields.io/badge/-ngaolakorny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
-[![GitHub](https://img.shields.io/badge/-ynmio55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ynmio55)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+[ผลงานเด่น](#-selected-work) · [สิ่งที่พัฒนา](#-what-i-build) · [เทคโนโลยี](#-toolbox) · [สำรวจเพิ่มเติม](#-more-to-explore)
 
 </div>
 
-## 🧑‍💻 About Me
+---
 
-```typescript
-const mio: Developer = {
-  name:       "Mio Ngaolakorn",
-  role:       "Full-Stack Developer",
-  focus:      "Realtime Systems",
-  location:   "Thailand 🇹🇭",
-  email:      "ngaolakorny@gmail.com",
+## ◈ What I build
 
-  languages: ["TypeScript", "JavaScript", "Dart", "Go", "SQL"],
+ผมคือ **Mio Ngaolakorn** — บน GitHub ใช้ชื่อ **ynmio55**  
+สนใจการพัฒนาซอฟต์แวร์ตั้งแต่โครงสร้างภายใน ไปจนถึงหน้าตาและการโต้ตอบของผู้ใช้ ผลงานในบัญชีนี้ครอบคลุม:
 
-  stack: {
-    frontend: ["Next.js", "React", "TailwindCSS"],
-    backend:  ["Node.js", "Go", "Express"],
-    mobile:   ["Flutter"],
-    devops:   ["Docker", "CI/CD"],
-  },
+| สายงาน | สิ่งที่ลงมือทำ | ตัวอย่าง |
+| :--- | :--- | :--- |
+| **Browser & systems** | แอปเบราว์เซอร์ Qt/C++ และทดลองสร้างเอนจินเว็บด้วย Rust | LiteWave · WaveCore |
+| **Interactive web** | ฉาก Three.js/WebGL การเคลื่อนกล้อง และการปรับแต่งโมเดล | 3dwebmodel |
+| **Realtime applications** | แยก frontend/backend พร้อม REST, WebSocket และ authentication | NexTalk |
+| **Desktop & automation** | UI เดสก์ท็อป คำสั่งภาษาไทย และการแพ็กแอปด้วย Tauri | Yabo Assistant |
+| **Computer vision & audio tools** | ตรวจจับท่าทางผ่านกล้อง และเครื่องมือจับเวลาเนื้อเพลง | Gesture · Lyric Studio |
+| **Developer experience** | ชุดไอคอนไฟล์และโฟลเดอร์สำหรับ editor | Next Icons |
 
-  currentlyLearning: "Realtime & WebSocket architecture",
-  funFact:            "I debug best at 2AM ☕",
-} as const;
-```
+## ◈ Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [LiteWave](https://github.com/ynmio55/LiteWave)
+
+**Desktop browser · Windows / Linux**
+
+เบราว์เซอร์ที่ใช้ **Qt WebEngine** พร้อมส่วนกรองคำขอที่เขียนด้วย Rust และระบบประกอบโปรแกรมด้วย CMake
+
+`C++` `Qt 6` `Rust` `CMake`
+
+[ดูซอร์ส ↗](https://github.com/ynmio55/LiteWave) · [เว็บไซต์และดาวน์โหลด ↗](https://litewave.miosmooth.com)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [WaveCore](https://github.com/ynmio55/WaveCore)
+
+**Experimental browser engine · Rust**
+
+ทดลองสร้างเอนจินเว็บเอง แยก workspace เป็น DOM, HTML, CSS, style, layout, renderer และโมดูลอื่น ๆ
+
+`Rust` `HTML / CSS` `Rendering`
+
+[สำรวจเอนจิน ↗](https://github.com/ynmio55/WaveCore)  
+**สถานะ:** กำลังพัฒนาและทดลอง
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ [3D Web Story](https://github.com/ynmio55/3dwebmodel)
+
+**Immersive storytelling · WebGL**
+
+เว็บเล่าเรื่องผ่านฉาก 3D กล้องเคลื่อนตามการเลื่อนหน้า มีการเลือกวัสดุ สี และเครื่องประดับหัวใจ พร้อมบันทึกภาพ PNG
+
+`JavaScript` `Three.js` `Vite`
+
+[สำรวจฉากและโค้ด ↗](https://github.com/ynmio55/3dwebmodel)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 NexTalk
+
+**Self-hosted chat · React + Go**
+
+แอปแชตสำหรับกลุ่มส่วนตัว แยก React client และ Go backend มี REST API, WebSocket, JWT และ PostgreSQL
+
+`React` `Go` `PostgreSQL` `WebSocket`
+
+[Frontend ↗](https://github.com/ynmio55/NexTalk_front) · [Backend ↗](https://github.com/ynmio55/NexTalk_back)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫧 [Yabo Assistant](https://github.com/ynmio55/yaboassis)
+
+**Thai desktop assistant · Liquid Glass**
+
+ผู้ช่วยคำสั่งภาษาไทยด้วย React + Tauri รองรับคำสั่งพื้นฐานในเครื่อง และมี workflow สำหรับสร้างตัวติดตั้ง Windows/Linux
+
+`React` `Tauri` `Rust`
+
+[ดูโปรเจกต์ ↗](https://github.com/ynmio55/yaboassis) · [การใช้งานและข้อจำกัด ↗](https://github.com/ynmio55/yaboassis/blob/main/voice-os/README.md)  
+**สถานะ:** ใช้ตัวแปลคำสั่งในเครื่อง; การรู้จำเสียงขึ้นกับ WebView
+
+</td>
+<td width="50%" valign="top">
+
+### 🖐️ [Gesture Reaction Camera](https://github.com/ynmio55/gesture)
+
+**Realtime computer vision · Python**
+
+ตรวจจับมือและท่าทางผ่านเว็บแคม แสดง landmarks, FPS และท่ามือ เช่น OPEN PALM, FIST, POINT และ PEACE
+
+`Python` `OpenCV` `MediaPipe` `NumPy`
+
+[ดูโปรเจกต์ ↗](https://github.com/ynmio55/gesture)
+
+</td>
+</tr>
+</table>
+
+> คำอธิบายอ้างอิง README และไฟล์โครงการที่เปิดเผยบน GitHub แต่ละ repository มีสถานะและข้อจำกัดของตัวเอง โดยเฉพาะงานเอนจินและแอปที่กำลังทดลอง
+
+## ◈ Toolbox
+
+**Web & interfaces**
+
+![React](https://img.shields.io/badge/React-121827?style=for-the-badge&logo=react&logoColor=79DFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-121827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-121827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-121827?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-121827?style=for-the-badge&logo=vite&logoColor=AD99FF)
+
+**Systems & desktop**
+
+![Rust](https://img.shields.io/badge/Rust-121827?style=for-the-badge&logo=rust&logoColor=F4B69A)
+![C++](https://img.shields.io/badge/C++-121827?style=for-the-badge&logo=cplusplus&logoColor=79DFFF)
+![Qt](https://img.shields.io/badge/Qt-121827?style=for-the-badge&logo=qt&logoColor=80E3BC)
+![Tauri](https://img.shields.io/badge/Tauri-121827?style=for-the-badge&logo=tauri&logoColor=FFC86D)
+![CMake](https://img.shields.io/badge/CMake-121827?style=for-the-badge&logo=cmake&logoColor=AD99FF)
+
+**Backend & creative tools**
+
+![Go](https://img.shields.io/badge/Go-121827?style=for-the-badge&logo=go&logoColor=79DFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121827?style=for-the-badge&logo=postgresql&logoColor=91BAF5)
+![Python](https://img.shields.io/badge/Python-121827?style=for-the-badge&logo=python&logoColor=FFC86D)
+![OpenCV](https://img.shields.io/badge/OpenCV-121827?style=for-the-badge&logo=opencv&logoColor=80E3BC)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-121827?style=for-the-badge&logo=githubactions&logoColor=AD99FF)
+
+<details>
+<summary><b>ดูว่าใช้เทคโนโลยีเหล่านี้ในโปรเจกต์ไหน</b></summary>
+
+<br />
+
+| โปรเจกต์ | หลักฐานใน repository |
+| :--- | :--- |
+| LiteWave | [CMakeLists.txt](https://github.com/ynmio55/LiteWave/blob/main/CMakeLists.txt) — C++, Qt, CMake และการ build Rust |
+| WaveCore | [Cargo.toml](https://github.com/ynmio55/WaveCore/blob/main/Cargo.toml) — Rust workspace และโมดูลเอนจิน |
+| 3D Web Story | [package.json](https://github.com/ynmio55/3dwebmodel/blob/main/package.json) — Three.js และ Vite |
+| NexTalk | [frontend package.json](https://github.com/ynmio55/NexTalk_front/blob/main/package.json) · [backend go.mod](https://github.com/ynmio55/NexTalk_back/blob/main/go.mod) — React, Go, pgx, WebSocket และ JWT |
+| Yabo Assistant | [คู่มือแอป](https://github.com/ynmio55/yaboassis/blob/main/voice-os/README.md) — React, Tauri และ workflow ตัวติดตั้ง |
+| Gesture | [requirements.txt](https://github.com/ynmio55/gesture/blob/main/requirements.txt) — OpenCV, MediaPipe และ NumPy |
+| Yabotify | [README](https://github.com/ynmio55/Yabotify/blob/main/README.md) — โปรเจกต์ Next.js |
+
+</details>
+
+## ◈ More to explore
+
+| โปรเจกต์ | เกี่ยวกับ |
+| :--- | :--- |
+| 🎵 [Lyric Studio](https://github.com/ynmio55/lyrics) | เครื่องมือ Python สำหรับจับเวลาเนื้อเพลง, Tap Sync และการ์ดเนื้อร้องลอย |
+| 🎨 [Next Icons](https://github.com/ynmio55/icon-Next) | ธีมไอคอนไฟล์และโฟลเดอร์แบบ SVG สำหรับ VS Code และ Google Antigravity |
+| 🧩 [Yabotify](https://github.com/ynmio55/Yabotify) | อีกหนึ่งโปรเจกต์เว็บในบัญชีที่พัฒนาด้วย Next.js |
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-## 🛠️ Tech Stack
+<br />
 
-<div align="center">
+**สำรวจผลงานทั้งหมด และติดตามสิ่งที่ผมกำลังสร้าง**
 
-**Frontend**
+[![GitHub](https://img.shields.io/badge/ynmio55-GITHUB-9D8DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=121827)](https://github.com/ynmio55?tab=repositories)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br /><br />
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Mobile & DevOps**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ynmio55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynmio55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ynmio55&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ynmio55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynmio55&bg_color=1a1b27&color=00DFD8&line=7928CA&point=FF0080&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngaolakorny@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynmio55)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,25:00DFD8,50:7928CA,75:FF0080,100:FF4D4D&height=150&section=footer" width="100%"/>
+<img src="./assets/profile-footer.svg" width="100%" alt="Build with curiosity. Refine with care." />
 
 </div>
